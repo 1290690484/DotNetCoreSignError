@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><request>
+<head>
+<requestTime>20210905192048</requestTime>
+</head>
+<body>
+<merchantNo>104310303522255</merchantNo>
+<token>TestToken</token>
+<walletSegInfo>Test</walletSegInfo>
+<deviceInfo>17601538121</deviceInfo>
+<productName>productName</productName>
+<detail>detail</detail>
+<merOrderNo>2312313131</merOrderNo>
+<totalAmount>2.00</totalAmount>
+<currency>001</currency>
+<terminalIP>58.246.36.130</terminalIP>
+<timeStart>20140226152159</timeStart>
+<businessType>C20202012</businessType>
+<purposeCode>C20202012</purposeCode>
+<nonceStr>13123131231</nonceStr>
+</body>
+</request>
